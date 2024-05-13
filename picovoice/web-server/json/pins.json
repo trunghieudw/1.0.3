@@ -1,0 +1,52 @@
+{
+  "pins": {
+    "2": {
+      "name": "Tầng 2",
+      "board": "esp8266",
+      "topic": "esp8266/2",
+      "state": "Mở"
+    },
+    "14": {
+      "name": "Tầng 2",
+      "board": "esp8266",
+      "topic": "esp8266/14",
+      "state": "Mở"
+    },
+    "12": {
+      "name": "Tầng 1",
+      "board": "esp8266",
+      "topic": "esp8266/12",
+      "state": "Mở"
+    },
+    "13": {
+      "name": "Tầng 1",
+      "board": "esp8266",
+      "topic": "esp8266/13",
+      "state": "Mở"
+    },
+    "16": {
+      "name": "GPIO 16",
+      "board": "esp8266",
+      "topic": "esp8266/16",
+      "state": "Mở"
+    },
+    "5": {
+      "name": "GPIO 5",
+      "board": "esp8266",
+      "topic": "esp8266/5",
+      "state": "Mở"
+    },
+    "4": {
+      "name": "GPIO 4",
+      "board": "esp8266",
+      "topic": "esp8266/4",
+      "state": "Mở"
+    },
+    "0": {
+      "name": "GPIO 0",
+      "board": "esp8266",
+      "topic": "esp8266/0",
+      "state": "Mở"
+    }
+  }
+}

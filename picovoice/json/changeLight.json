@@ -1,0 +1,161 @@
+[
+    {
+        "_comment": "Xử lý Intent Slots Tiếng Anh"
+    },
+    {
+        "intent": "changeLightState",
+        "slots": {
+            "state": "on",
+            "floor": "first floor"
+        },
+        "pin": "16, 5, 4"
+    },
+    {
+        "intent": "changeLightState",
+        "slots": {
+            "state": "off",
+            "floor": "first floor"
+        },
+        "pin": "16, 5, 4"
+    },
+    {
+        "intent": "changeLightState",
+        "slots": {
+            "state": "on",
+            "floor": "second floor"
+        },
+        "pin": "0, 2"
+    },
+    {
+        "intent": "changeLightState",
+        "slots": {
+            "state": "off",
+            "floor": "second floor"
+        },
+        "pin": "0, 2"
+    },
+    {
+        "intent": "changeLightState",
+        "slots": {
+            "state": "on",
+            "floor": "third floor"
+        },
+        "pin": "3"
+    },
+    {
+        "intent": "changeLightState",
+        "slots": {
+            "state": "off",
+            "floor": "third floor"
+        },
+        "pin": "3"
+    },
+    {
+        "intent": "changeLightState",
+        "slots": {
+            "state": "on",
+            "location": "living room",
+            "floor": "first floor"
+        },
+        "pin": "4"
+    },
+    {
+        "intent": "changeLightState",
+        "slots": {
+            "state": "off",
+            "location": "living room",
+            "floor": "first floor"
+        },
+        "pin": "4"
+    },
+    {
+        "intent": "changeLightState",
+        "slots": {
+            "state": "on",
+            "location": "kitchen",
+            "floor": "first floor"
+        },
+        "pin": "5"
+    },
+    {
+        "intent": "changeLightState",
+        "slots": {
+            "state": "off",
+            "location": "kitchen",
+            "floor": "first floor"
+        },
+        "pin": "5"
+    },
+    {
+        "intent": "changeLightState",
+        "slots": {
+            "state": "on",
+            "location": "garden",
+            "floor": "first floor"
+        },
+        "pin": "16"
+    },
+    {
+        "intent": "changeLightState",
+        "slots": {
+            "state": "off",
+            "location": "garden",
+            "floor": "first floor"
+        },
+        "pin": "16"
+    },
+    {
+        "intent": "changeLightState",
+        "slots": {
+            "state": "on",
+            "location": "living room",
+            "floor": "second floor"
+        },
+        "pin": "2"
+    },
+    {
+        "intent": "changeLightState",
+        "slots": {
+            "state": "off",
+            "location": "living room",
+            "floor": "second floor"
+        },
+        "pin": "2"
+    },
+    {
+        "intent": "changeLightState",
+        "slots": {
+            "state": "on",
+            "location": "bedroom",
+            "floor": "second floor"
+        },
+        "pin": "0"
+    },
+    {
+        "intent": "changeLightState",
+        "slots": {
+            "state": "off",
+            "location": "bedroom",
+            "floor": "second floor"
+        },
+        "pin": "0"
+    },
+    {
+        "intent": "changeLightState",
+        "slots": {
+            "state": "on",
+            "location": "living room",
+            "floor": "third floor"
+        },
+        "pin": "14"
+    },
+    {
+        "intent": "changeLightState",
+        "slots": {
+            "state": "off",
+            "location": "living room",
+            "floor": "third floor"
+        },
+        "pin": "14"
+    }    
+]

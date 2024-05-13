@@ -1,0 +1,39 @@
+/* Sidebar */
+.sidebar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    padding: 20px;
+    background-color: #292b2c; /* Màu nền đậm */
+    color: #ffffff; /* Màu chữ trắng */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    height: 150%;
+}
+
+.sidebar h3 {
+    color: #000000; /* Màu chữ đen cho tiêu đề */
+}
+
+.sidebar .nav-link {
+    padding: 25px 30px;
+    font-weight: 600;
+    color: #ffffff;
+}
+
+.sidebar .nav-link:hover {
+    background-color: #343a40; /* Màu nền khi hover */
+    color: #ffffff;
+}
+
+/* Active menu item */
+.sidebar .nav-link.active {
+    background-color: #007BFF; /* Màu nền khi active */
+    color: #ffffff;
+}
+
+/* Adjust content to avoid overlay */
+#content {
+    margin-left: 200px; /* Độ rộng của sidebar */
+    padding: 20px;
+    height: max-content;
+}

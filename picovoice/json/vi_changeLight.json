@@ -1,0 +1,179 @@
+[    
+    {
+        "_comment": "Xử lý Intent Slots Tiếng Việt"
+    },
+    {
+        "intent": "vi_controlLight",
+        "slots": {
+            "state": "mở",
+            "floor": "tầng một"
+        },
+        "pin": "16, 5, 4"
+    },
+    {
+        "intent": "vi_controlLight",
+        "slots": {
+            "state": "tắt",
+            "floor": "tầng một"
+        },
+        "pin": "16, 5, 4"
+    },
+    {
+        "intent": "vi_controlLight",
+        "slots": {
+            "state": "mở",
+            "floor": "tầng hai"
+        },
+        "pin": "0, 2"
+    },
+    {
+        "intent": "vi_controlLight",
+        "slots": {
+            "state": "tắt",
+            "floor": "tầng hai"
+        },
+        "pin": "0, 2"
+    },
+    {
+        "intent": "vi_controlLight",
+        "slots": {
+            "state": "mở",
+            "floor": "tầng ba"
+        },
+        "pin": "3"
+    },
+    {
+        "intent": "vi_controlLight",
+        "slots": {
+            "state": "tắt",
+            "floor": "tầng ba"
+        },
+        "pin": "3"
+    },
+    {
+        "intent": "vi_controlLight",
+        "slots": {
+            "state": "mở",
+            "location": "phòng khách",
+            "floor": "tầng một"
+        },
+        "pin": "4"
+    },
+    {
+        "intent": "vi_controlLight",
+        "slots": {
+            "state": "tắt",
+            "location": "phòng khách",
+            "floor": "tầng một"
+        },
+        "pin": "4"
+    },
+    {
+        "intent": "vi_controlLight",
+        "slots": {
+            "state": "mở",
+            "location": "nhà bếp",
+            "floor": "tầng một"
+        },
+        "pin": "5"
+    },
+    {
+        "intent": "vi_controlLight",
+        "slots": {
+            "state": "tắt",
+            "location": "nhà bếp",
+            "floor": "tầng một"
+        },
+        "pin": "5"
+    },
+    {
+        "intent": "vi_controlLight",
+        "slots": {
+            "state": "mở",
+            "location": "phòng bếp",
+            "floor": "tầng một"
+        },
+        "pin": "5"
+    },
+    {
+        "intent": "vi_controlLight",
+        "slots": {
+            "state": "tắt",
+            "location": "phòng bếp",
+            "floor": "tầng một"
+        },
+        "pin": "5"
+    },
+    {
+        "intent": "vi_controlLight",
+        "slots": {
+            "state": "mở",
+            "location": "sân vườn",
+            "floor": "tầng một"
+        },
+        "pin": "16"
+    },
+    {
+        "intent": "vi_controlLight",
+        "slots": {
+            "state": "tắt",
+            "location": "sân vườn",
+            "floor": "tầng một"
+        },
+        "pin": "16"
+    },
+    {
+        "intent": "vi_controlLight",
+        "slots": {
+            "state": "mở",
+            "location": "phòng khách",
+            "floor": "tầng hai"
+        },
+        "pin": "2"
+    },
+    {
+        "intent": "vi_controlLight",
+        "slots": {
+            "state": "tắt",
+            "location": "phòng khách",
+            "floor": "tầng hai"
+        },
+        "pin": "2"
+    },
+    {
+        "intent": "vi_controlLight",
+        "slots": {
+            "state": "mở",
+            "location": "phòng ngủ",
+            "floor": "tầng hai"
+        },
+        "pin": "0"
+    },
+    {
+        "intent": "vi_controlLight",
+        "slots": {
+            "state": "tắt",
+            "location": "phòng ngủ",
+            "floor": "tầng hai"
+        },
+        "pin": "0"
+    },
+    {
+        "intent": "vi_controlLight",
+        "slots": {
+            "state": "mở",
+            "location": "phòng khách",
+            "floor": "tầng ba"
+        },
+        "pin": "14"
+    },
+    {
+        "intent": "vi_controlLight",
+        "slots": {
+            "state": "tắt",
+            "location": "phòng khách",
+            "floor": "tầng ba"
+        },
+        "pin": "14"
+    }
+]
